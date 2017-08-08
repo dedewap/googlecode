@@ -3,7 +3,7 @@
  * Version v0.1.4
  * http://webcreate.nl/
  * http://fb.com/dedewap.tk
- * Copyright (c) 2011 Jeroen Fiege
+ * Copyright (c) 2017 Jeroen Fiege
  * Licensed under the MIT License: 
  * http://webcreate.nl/license
  */
